@@ -1,6 +1,6 @@
 {
 "modul":[
-{"id":1,"nama":"bcaedc://app?action=open"}
+{"id":1,"nama":"bcaedc://app?action=open"},
 {"id":2,"nama":"bcaedc://app?action=tutorial&id=idtutorial"},
 {"id":3,"nama":"bcaedc://app?action=tutorial&id=Materi1"},
 {"id":4,"nama":"bcaedc://app?action=tutorial&id=Materi2"},

@@ -1,7 +1,7 @@
 {
 "modul":[
 {"id":1,"url":"bcaedc://app?action=open","category":"AR","name":"Open"},
-{"id":2,"url":"bcaedc://app?action=tutorial&id=idtutorial","category":"AR","name":"Tutorial"},
+{"id":2,"url":"bcaedc://app?action=tutorial&id=idtutorial","category":"AR","name":"Tutorial"}
 {"id":3,"url":"bcaedc://app?action=tutorial&id=Materi1","category":"AR","name":"Materi1"},
 {"id":4,"url":"bcaedc://app?action=tutorial&id=Materi2","category":"AR","name":"Materi2"},
 {"id":5,"url":"bcaedc://app?action=tutorial&id=Materi3","category":"AR","name":"Materi3"},

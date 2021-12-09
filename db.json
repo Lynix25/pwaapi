@@ -1,13 +1,23 @@
 {
 "modul":[
-{"id":1,"url":"bcaedc://app?action=open","category":"AR","name":"Open"},
-{"id":2,"url":"bcaedc://app?action=tutorial&id=idtutorial","category":"AR","name":"Tutorial"},
-{"id":3,"url":"bcaedc://app?action=tutorial&id=Materi1","category":"AR","name":"Materi1"},
-{"id":4,"url":"bcaedc://app?action=tutorial&id=Materi2","category":"AR","name":"Materi2"},
-{"id":5,"url":"bcaedc://app?action=tutorial&id=Materi3","category":"AR","name":"Materi3"},
-{"id":6,"url":"bcaedc://app?action=tutorial&id=Materi4","category":"AR","name":"Materi4"},
-{"id":7,"url":"bcaedc://app?action=tutorial&id=Materi5","category":"AR","name":"Materi5"},
-{"id":8,"url":"bcaedc://app?action=tutorial&id=Materi6","category":"AR","name":"Materi6"},
-{"id":9,"url":"bcaedc://app?action=tutorial&id=Materi7","category":"AR","name":"Materi7"}
+{"id":1,"url":"bcaedc://app?action=tutorial&id=Materi1","category":"AR","name":"Materi1"},
+{"id":2,"url":"bcaedc://app?action=tutorial&id=Materi2","category":"AR","name":"Materi2"},
+{"id":3,"url":"bcaedc://app?action=tutorial&id=Materi3","category":"AR","name":"Materi3"},
+{"id":4,"url":"bcaedc://app?action=tutorial&id=Materi4","category":"AR","name":"Materi4"},
+{"id":5,"url":"bcaedc://app?action=tutorial&id=Materi5","category":"AR","name":"Materi5"},
+{"id":6,"url":"bcaedc://app?action=tutorial&id=Materi6","category":"AR","name":"Materi6"},
+{"id":7,"url":"bcaedc://app?action=tutorial&id=Materi7","category":"AR","name":"Materi7"},
+{"id":8,"url":"bcaedc://app?action=tutorial&id=Materi8","category":"AR","name":"Materi8"},
+{"id":9,"url":"bcaedc://app?action=tutorial&id=Materi9","category":"AR","name":"Materi9"},
+{"id":10,"url":"bcaedc://app?action=tutorial&id=Materi10","category":"AR","name":"Materi10"},
+{"id":11,"url":"","category":"Sumiaty","name":"Main Menu"},
+{"id":12,"url":"","category":"Sumiaty","name":"Error Code"},
+{"id":13,"url":"www.instagram.com","category":"Meta","name":"Instagram"},
+{"id":14,"url":"www.facebook.com","category":"Meta","name":"Facebook"},
+{"id":15,"url":"www.google.com","category":"Google","name":"Google"},
+{"id":16,"url":"www.youtube.com","category":"Google","name":"Youtube"},
+{"id":17,"url":"www.gmail.com","category":"Google","name":"Gmail"},
+{"id":18,"url":"www.drive.com","category":"Google","name":"Drive"},
+{"id":19,"url":"www.whatsapp.com","category":"Meta","name":"Whatsapp"}
 ]
 }

@@ -18,6 +18,7 @@
 {"id":16,"url":"www.youtube.com","category":"Google","name":"Youtube"},
 {"id":17,"url":"www.gmail.com","category":"Google","name":"Gmail"},
 {"id":18,"url":"www.drive.com","category":"Google","name":"Drive"},
-{"id":19,"url":"www.whatsapp.com","category":"Meta","name":"Whatsapp"}
+{"id":19,"url":"www.whatsapp.com","category":"Meta","name":"Whatsapp"},
+{"id":20,"url":"ar.html","category":"WebAR","name":"WebAR"}
 ]
 }
